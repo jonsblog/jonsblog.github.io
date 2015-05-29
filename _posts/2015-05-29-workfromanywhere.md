@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "2015-05-29 - can you work from anywhere?"
+title: "2015-05-16 - Can you work from anywhere?..."
 published: true
 ---
 
