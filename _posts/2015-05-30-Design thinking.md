@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "2015-05-30 - A blogger is born..."
