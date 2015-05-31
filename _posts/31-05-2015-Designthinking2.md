@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015-05-30 - Design Thinking..."
+title: "2015-05-31 - Design Thinking..."
 published: true
 ---
 
