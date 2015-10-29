@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "2015-05-30 - Design Thinking..."
-published: true
+published: false
 ---
+
 
 An emerging  problem solving approach.
 
@@ -42,4 +43,4 @@ Ask loads of questions
 Conclusion:
 Themes emerged such as the need for convenience, family orientation, culture, relaxing, automated processes. 
 
-According to design thinking, gathering requirements satisfies the design phase. It acts as a start point to brainstorm new ideas that would never have been bought up. If u give the developers the choice they would ask for horses that run faster- ford. Based on scientific analysis this was most likely the case. Now, we find out what matters to the user e.g. Building nicer trains was a secondary priority to improving time taken…u only get this from observation. 
+According to design thinking, gathering requirements satisfies the design phase. It acts as a start point to brainstorm new ideas that would never have been bought up. If u give the developers the choice they would ask for horses that run faster- ford. Based on scientific analysis this was most likely the case. Now, we find out what matters to the user e.g. Building nicer trains was a secondary priority to improving time taken…u only get this from observation.
