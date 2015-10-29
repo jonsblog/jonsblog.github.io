@@ -6,7 +6,8 @@ published: true
 ---
 
 
-To offer my services as an astute and inquisitive graduate with a joy for learning, a fanatical attention to consistency and detail, seeking career adtvancemen
+Some information about you!
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
