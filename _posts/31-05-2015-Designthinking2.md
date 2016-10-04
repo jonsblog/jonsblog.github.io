@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2015-05-31 - Design Thinking..."
-published: true
+title: 2015-05-31 - Design Thinking...
+published: false
 ---
 
  Design thinking stands for design-specific cognitive activities that designers apply during the process of designing.[1]
@@ -19,4 +19,4 @@ The context of the workshop began from the perspective of improving an existing 
 
 The boundaries of the interview spanned the entire holiday experience from before, during and after. Findings revealed several themes.e.g. Before: busy family life and the need for every stage of tour to be handled. Cultural activities were an objective and this was also a desired function of tour company. Having all the required leaflets and travel paraphernalia to navigate effortlessly through the company.  Staying with Family members was also a consideration that tour companies a lacked flexibility in. In fact, staying with family and having tour functionality of guided tours, etc were still a requirement. During: customer service was previously inattentive and not very responsive. After:  
 
-In conclusion: the design thinking mindset, was an explorative design process. It involved the creative flexibility of the interviewer and interpretation skills of the observer. The sentiment analysis revealed that travellers wanted a hassle free trip, with flexibility and control every step of the way. A possible theme to build upon was the stay with family but with the option for guided tours. 
+In conclusion: the design thinking mindset, was an explorative design process. It involved the creative flexibility of the interviewer and interpretation skills of the observer. The sentiment analysis revealed that travellers wanted a hassle free trip, with flexibility and control every step of the way. A possible theme to build upon was the stay with family but with the option for guided tours.
